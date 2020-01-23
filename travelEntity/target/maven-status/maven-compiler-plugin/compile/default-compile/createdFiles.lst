@@ -1,0 +1,7 @@
+com\luluzsp\travel\entity\Member.class
+com\luluzsp\travel\entity\Product.class
+com\luluzsp\travel\entity\Order.class
+com\luluzsp\travel\entity\Permission.class
+com\luluzsp\travel\entity\Traveller.class
+com\luluzsp\travel\entity\UserInfo.class
+com\luluzsp\travel\entity\Role.class

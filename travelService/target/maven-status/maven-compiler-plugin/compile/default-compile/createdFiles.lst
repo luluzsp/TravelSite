@@ -1,0 +1,10 @@
+com\luluzsp\travel\service\impl\RoleServiceImpl.class
+com\luluzsp\travel\service\PermissionService.class
+com\luluzsp\travel\service\impl\PermissionServiceImpl.class
+com\luluzsp\travel\service\impl\ProductServiceImpl.class
+com\luluzsp\travel\service\OrderService.class
+com\luluzsp\travel\service\RoleService.class
+com\luluzsp\travel\service\impl\UserServiceImpl.class
+com\luluzsp\travel\service\impl\OrderServiceImpl.class
+com\luluzsp\travel\service\ProductService.class
+com\luluzsp\travel\service\UserService.class

@@ -1,0 +1,6 @@
+com\luluzsp\travel\Dao\OrderDao.class
+com\luluzsp\travel\Dao\ProductDao.class
+com\luluzsp\travel\Dao\TravellerDao.class
+com\luluzsp\travel\Dao\UserDao.class
+com\luluzsp\travel\Dao\RoleDao.class
+com\luluzsp\travel\Dao\MemberDao.class

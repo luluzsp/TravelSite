@@ -1,0 +1,4 @@
+com\luluzsp\travel\controller\ProductController.class
+com\luluzsp\travel\controller\OrderController.class
+com\luluzsp\travel\controller\PermissionController.class
+com\luluzsp\travel\controller\RoleController.class
